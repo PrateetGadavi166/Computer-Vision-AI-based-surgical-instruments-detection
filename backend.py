@@ -15,8 +15,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-model_path = r"C:\Users\Asus\Desktop\FY\n_best.pt"
-json_file_path = r"yolo-detection-ui\public\objectsData.json"  # Replace with the correct path to your JSON file
+model_path = r"C:\\Users\\Asus\\Desktop\\FY\\n_best.pt"
+json_file_path = r"yolo-detection-ui\\public\\objectsData.json"  # Replace with the correct path to your JSON file
 
 try:
     from ultralytics import YOLO
