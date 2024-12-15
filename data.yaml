@@ -1,0 +1,7 @@
+train: C:\Users\Asus\Desktop\FY\dataset\train\images
+val: C:\Users\Asus\Desktop\FY\dataset\valid\images
+test: C:\Users\Asus\Desktop\FY\dataset\test\images
+
+nc: 19
+names: ['Army-Navy', 'Bulldog-Clamp', 'Castroviejo', 'Forceps', 'Frazier-Suction-Tip', 'Hemostat', 'Iris', 'Mayo-metz', 'Needle-Holder', 'Potts-Scissors', 'Richardson', 'Scalpel', 'Towel_Clip', 'Weitlaner-Retractor', 'Yankauer-Suction-Tip', 'Forceps-(variant)', 'Pliers', 'Scalpel-(variant)', 'Surgical-Scissors']
+
