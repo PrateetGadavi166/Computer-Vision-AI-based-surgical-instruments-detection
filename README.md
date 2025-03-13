@@ -1,2 +1,2 @@
 # Computer Vision(AI) based surgical instruments detection
-YOLO object detection using FastAPI and React
+YOLO object detection using FastAPI 
